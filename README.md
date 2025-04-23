@@ -1,6 +1,7 @@
 # DS4002_CS3
 
 ## Spam or Ham Identification Case Study 
+This repository includes all materials necessary to replicate this study on spam or ham email detection. The goal of this project is to produce three machine learning models (K-nearest neighbors, logistic regression, and decision trees) and evaluate model performance based on precision and accuracy to determine which model is most effective at identifying spam emails. 
 
 ## Background Materials 
 The hook document containing the motivation behind this case study can be found at__. The rubric includes a description for each component necessary for completion of the case study. This document can be found at___. Finally, this repository also contains various reference materials that will help with completing the code. Please find these materials at___. 
