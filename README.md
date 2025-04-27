@@ -13,3 +13,4 @@ The datasets used in this case study can be found in the DATA folder. This inclu
 In the CODE folder, you will find the PreprocessingScript_EDA.ipynb file which must be run in order to clean/preprocess the textual data. Then, use AnalysisScript.ipynb to run and complete the code for the analysis. 
 
 ## References 
+In the [REFERENCE FILES](https://github.com/natalieassaad/DS4002_CS3/tree/main/REFERENCE%20FILES) folder, you will find articles that will help guide you in replicating this study. 
