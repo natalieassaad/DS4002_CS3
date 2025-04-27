@@ -10,6 +10,6 @@ The hook document containing the motivation behind this case study can be found 
 The datasets used in this case study can be found in the DATA folder. This includes the original dataset ([emails.csv](https://github.com/natalieassaad/DS4002_CS3/blob/main/DATA/emails.csv)) and an example CSV file of final results ([example_model_results.csv](https://github.com/natalieassaad/DS4002_CS3/blob/main/DATA/example_model_results.csv)). 
 
 ## Code 
-In the CODE folder, you will find the PreprocessingScript_EDA.ipynb file which must be run in order to clean/preprocess the textual data. The file already contains prewritten data cleaning/EDA code, but you will have to fill in the textual preprocessing code. After completing this script and exporting the preprocessed_data.csv, use AnalysisScript.ipynb to run and complete the code for the analysis. In this script, you will have to complete the code for the KNN and Decision Tree models. 
+In the CODE folder, you will find the [PreprocessingScript_EDA.ipynb](https://github.com/natalieassaad/DS4002_CS3/blob/main/CODE/PreprocessingScript_EDA.ipynb) file which must be run in order to clean/preprocess the textual data. The file already contains prewritten data cleaning/EDA code, but you will have to fill in the textual preprocessing code. After completing this script and exporting the preprocessed_data.csv, use AnalysisScript.ipynb to run and complete the code for the analysis. In this script, you will have to complete the code for the KNN and Decision Tree models. 
 
 ## References 
