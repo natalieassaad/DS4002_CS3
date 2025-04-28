@@ -14,5 +14,7 @@ In the CODE folder, you will find the [PreprocessingScript_EDA.ipynb](https://gi
 
 ## References 
 [1] H. Caldwell, “The impact of spam emails on businesses,” Texaport, https://texaport.co.uk/blog/the-impact-of-spam-emails-on-businesses#:~:text=Spam%20is%20a%20blanket%20term,protect%20their%20data%20and%20privacy. (accessed Apr. 27, 2025). 
+
 [2] Sudipakoner, “Building a spam email detection model: A step-by-step guide,” Medium, https://medium.com/@sudipakoner492/building-a-spam-email-detection-model-a-step-by-step-guide-aa44e7ff9b21 (accessed Apr. 27, 2025). 
+
 [3] A. Khan, “Email spam detection with Machine Learning: A Comprehensive Guide,” Medium, https://medium.com/@azimkhan8018/email-spam-detection-with-machine-learning-a-comprehensive-guide-b65c6936678b (accessed Apr. 27, 2025). 
